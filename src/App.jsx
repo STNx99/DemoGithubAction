@@ -2,7 +2,7 @@ import './App.css'
 
 function App() {
   const profile = {
-    name: 'VO CHI THONG',
+    name: 'VO CHI THONG - 2280603135 - TEAM 5',
     role: 'Information Technology Student',
     location: '31/8D, My Hoa 3, Tan Xuan, Hoc Mon, Ho Chi Minh City',
     email: '94.thongvo@gmail.com',
